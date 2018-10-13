@@ -1,0 +1,10 @@
+@mixin body-font() {
+  font-family: 'Amaranth';
+  letter-spacing: 0.075rem;
+}
+
+@mixin heading-font() {
+  font-weight: 700;
+  font-family: 'Secular One';
+  letter-spacing: 0.25rem;
+}
